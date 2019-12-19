@@ -20,11 +20,11 @@ namespace JwtTokenExample
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
-        public static void test()
+        public static void test1()
         {
 
         }
-        public static void Testss()
+        public static void Testss2()
         {
 
         }
